@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChangingTextColorApp</string>
+    <string name="selectedItem">selectedItem:</string>
+
+    <string-array name="selectedItem">
+        <item>Palette Mosaic</item>
+        <item>Qahiri</item>
+        <item>Style Script</item>
+        <item>Zen Tokyo Zoo</item>
+    </string-array>
+</resources>
